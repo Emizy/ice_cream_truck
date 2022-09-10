@@ -1,0 +1,13 @@
+Django==4.1.1
+djangorestframework==3.13.1
+djangorestframework-jwt==1.11.0
+djangorestframework-simplejwt==5.2.0
+drf-yasg==1.21.3
+drfdocs==0.0.11
+Pillow==9.2.0
+psycopg2-binary==2.9.3
+PyJWT==1.7.1
+swagger-spec-validator==2.7.6
+python-decouple==3.6
+django-filter==22.1
+faker
